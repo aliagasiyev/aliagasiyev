@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Java and web development
 - 💞️ I’m looking to collaborate on Java projects and open-source contributions
 - 📫 How to reach me:agasiyevali2@gmail.com
-- 😄 Pronouns: He/Him
+- 😄 Pronouns:
 - ⚡ Fun fact: I love solving complex coding challenges and puzzles!
 
 <!---
