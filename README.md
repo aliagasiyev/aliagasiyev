@@ -1,10 +1,12 @@
-- 👋 Hi, I’m ALI
-- 👀 I’m interested in programming 
-- 🌱 I’m currently learning Java and web development
-- 📫 How to reach me:agasiyevali2@gmail.com
-- ⚡ Fun fact: I love solving complex coding challenges and puzzles!
+# 👋 Hey there, I'm **Ali Agasiyev**!
 
-<!---
-aliagasiyev/aliagasiyev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 💻 About Me
+- 🎯 Passionate about **programming** and **problem solving**
+- 🌱 Currently learning **Java** and **Web Development**
+- 💡 Enthusiastic about building real-world projects and improving daily
+
+## 📫 Contact Me
+- 📩 Email: [agasiyevali2@gmail.com](mailto:agasiyevali2@gmail.com)
+
+## ⚡ Fun Fact
+- 🧠 I enjoy tackling complex coding challenges and puzzles — bring it on!
