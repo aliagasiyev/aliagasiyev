@@ -11,11 +11,3 @@
 
 ## ⚡ Fun Fact
 - 🧩 I love solving complex coding challenges and brain-teasing puzzles!
-
-## 🚀 Technologies I'm Exploring
-- `Java` | `Spring Boot` | `HTML` | `CSS` | `JavaScript`
-- Tools: IntelliJ IDEA, Git, GitHub, Postman
-
-## 📈 GitHub Stats *(Optional)*
-<!-- Remove this section if you prefer minimal look -->
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliagasiyev&show_icons=true&theme=github_dark)
