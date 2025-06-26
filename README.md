@@ -1,10 +1,6 @@
 # 👋 Hi, I'm **Ali Agasiyev**
-
-## 🚀 Senior Software Engineer | Open Source Contributor
-
 - 💼 **Back-End Specialist** with strong experience in Java, Spring Boot, and scalable cloud-native systems
 - 🌍 Active **Open Source Contributor** (Java, Spring, Distributed Systems)
-- 🏦 1+ years building secure, high-availability banking and financial software (Rabitə Bank)
 - 🧑‍🏫 Mentor & Team Lead: Java Back-End Mentor at Turing Academy
 - 🏆 Passionate about solving real-world problems with robust, production-grade code
 
