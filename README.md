@@ -1,4 +1,5 @@
 # 👋 Hi, I'm **Ali Agasiyev**
-- 💼 **Back-End Specialist** with strong experience in Java, Spring Boot, and scalable cloud-native systems
-- 🌍 Active **Open Source Contributor** (Java, Spring, Distributed Systems)
-- 🧑‍🏫 Mentor & Team Lead: Java Back-End Mentor at Turing Academy
+- 👨‍💻 **Software Engineer** at **Andersen Lab** (Java, Spring Boot, Cloud-Native)
+- ☁️ **OCI Certified AI Foundations Associate** (2025)
+- 🌍 **Open Source Contributor** (Java, Spring, Distributed Systems)
+- 🚀 **Engineering Mentor:** Scaling backend expertise and leading technical talent
